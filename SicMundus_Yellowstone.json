@@ -1,0 +1,591 @@
+{
+  "kind": "SicMundus.massFarmer.config",
+  "version": 1,
+  "data": {
+    "townId": 4511,
+    "moneyReceiver": "Tobiash",
+    "targetAchievement": 80448,
+    "repeater": 100,
+    "jobs": [
+      {
+        "count": 168,
+        "id": 128,
+        "x": 44419,
+        "y": 17873,
+        "time": 15
+      },
+      {
+        "count": 19,
+        "id": 130,
+        "x": 44169,
+        "y": 17887,
+        "time": 15
+      },
+      {
+        "count": 63,
+        "id": 128,
+        "x": 44419,
+        "y": 17873,
+        "time": 15
+      },
+      {
+        "count": 36,
+        "id": 130,
+        "x": 44169,
+        "y": 17887,
+        "time": 15
+      },
+      {
+        "count": 22,
+        "id": 128,
+        "x": 44419,
+        "y": 17873,
+        "time": 15
+      },
+      {
+        "count": 47,
+        "id": 130,
+        "x": 44169,
+        "y": 17887,
+        "time": 15
+      },
+      {
+        "count": 30,
+        "id": 127,
+        "x": 42635,
+        "y": 18385,
+        "time": 15
+      },
+      {
+        "count": 42,
+        "id": 128,
+        "x": 44419,
+        "y": 17873,
+        "time": 15
+      },
+      {
+        "count": 57,
+        "id": 129,
+        "x": 43638,
+        "y": 17956,
+        "time": 15
+      },
+      {
+        "count": 51,
+        "id": 128,
+        "x": 44419,
+        "y": 17873,
+        "time": 15
+      },
+      {
+        "count": 48,
+        "id": 5,
+        "x": 44419,
+        "y": 17873,
+        "time": 15
+      }
+    ],
+    "consumables": [
+      52136000,
+      1971000,
+      2130000,
+      2117000,
+      2129000,
+      2128000,
+      53505000,
+      2116000,
+      1969000,
+      255000
+    ],
+    "boxes": [
+      54890000,
+      53119000,
+      53121000,
+      53120000,
+      53122000,
+      53117000,
+      52744000,
+      52746000,
+      52748000,
+      52747000,
+      52749000,
+      52271000,
+      52267000,
+      52269000,
+      52268000,
+      52270000,
+      51812000,
+      51814000,
+      51813000,
+      51815000,
+      51810000,
+      51326000,
+      51328000,
+      51327000,
+      51329000,
+      51324000,
+      2460000,
+      53118000,
+      52745000,
+      51811000,
+      51325000,
+      53005000,
+      52915000,
+      53018000,
+      51292000,
+      2397000,
+      2395000,
+      2393000,
+      2396000,
+      2394000,
+      2139000,
+      2624000,
+      2137000,
+      2172000,
+      2138000,
+      2136000
+    ],
+    "traderSell": [
+      52147000,
+      53131000,
+      53133000,
+      53129000,
+      53130000,
+      53123000,
+      53124000,
+      53125000,
+      53126000,
+      53127000,
+      53128000,
+      53132000,
+      52739000,
+      52740000,
+      52733000,
+      52734000,
+      52735000,
+      52736000,
+      52737000,
+      52738000,
+      52741000,
+      52743000,
+      52742000,
+      51799000,
+      51800000,
+      51801000,
+      51802000,
+      51803000,
+      51804000,
+      51805000,
+      51807000,
+      51808000,
+      51809000,
+      51806000,
+      51322000,
+      51323000,
+      51313000,
+      51314000,
+      51315000,
+      51316000,
+      51317000,
+      51318000,
+      51319000,
+      51321000,
+      51320000,
+      53019000,
+      53020000,
+      53021000,
+      53022000,
+      53023000,
+      53024000,
+      53009000,
+      53010000,
+      53011000,
+      53012000,
+      53013000,
+      53014000,
+      52910000,
+      52911000,
+      52904000,
+      52905000,
+      52906000,
+      52907000,
+      52908000,
+      52909000,
+      53016000,
+      54891000,
+      54894000,
+      54895000,
+      54892000,
+      54893000
+    ],
+    "marketSell": [
+      {
+        "itemId": 53059000,
+        "bid": 2000,
+        "price": 76767,
+        "days": 6,
+        "rights": 2,
+        "description": ""
+      },
+      {
+        "itemId": 53060000,
+        "bid": 3000,
+        "price": 76767,
+        "days": 6,
+        "rights": 2,
+        "description": ""
+      },
+      {
+        "itemId": 53061000,
+        "bid": 6000,
+        "price": 76767,
+        "days": 6,
+        "rights": 2,
+        "description": ""
+      },
+      {
+        "itemId": 53062000,
+        "bid": 6000,
+        "price": 76767,
+        "days": 6,
+        "rights": 2,
+        "description": ""
+      },
+      {
+        "itemId": 53063000,
+        "bid": 4750,
+        "price": 76767,
+        "days": 6,
+        "rights": 2,
+        "description": ""
+      },
+      {
+        "itemId": 53064000,
+        "bid": 1250,
+        "price": 76767,
+        "days": 6,
+        "rights": 2,
+        "description": ""
+      },
+      {
+        "itemId": 53065000,
+        "bid": 1400,
+        "price": 136767,
+        "days": 6,
+        "rights": 2,
+        "description": ""
+      },
+      {
+        "itemId": 53066000,
+        "bid": 600,
+        "price": 136767,
+        "days": 6,
+        "rights": 2,
+        "description": ""
+      },
+      {
+        "itemId": 53067000,
+        "bid": 3750,
+        "price": 76767,
+        "days": 6,
+        "rights": 2,
+        "description": ""
+      },
+      {
+        "itemId": 53069000,
+        "bid": 3750,
+        "price": 136767,
+        "days": 6,
+        "rights": 2,
+        "description": ""
+      },
+      {
+        "itemId": 53068000,
+        "bid": 3750,
+        "price": 76767,
+        "days": 6,
+        "rights": 2,
+        "description": ""
+      },
+      {
+        "itemId": 53071000,
+        "bid": 2000,
+        "price": 56767,
+        "days": 6,
+        "rights": 2,
+        "description": ""
+      },
+      {
+        "itemId": 53072000,
+        "bid": 3000,
+        "price": 56767,
+        "days": 6,
+        "rights": 2,
+        "description": ""
+      },
+      {
+        "itemId": 53073000,
+        "bid": 6000,
+        "price": 56767,
+        "days": 6,
+        "rights": 2,
+        "description": ""
+      },
+      {
+        "itemId": 53074000,
+        "bid": 6000,
+        "price": 56767,
+        "days": 6,
+        "rights": 2,
+        "description": ""
+      },
+      {
+        "itemId": 53075000,
+        "bid": 4750,
+        "price": 56767,
+        "days": 6,
+        "rights": 2,
+        "description": ""
+      },
+      {
+        "itemId": 53076000,
+        "bid": 1250,
+        "price": 56767,
+        "days": 6,
+        "rights": 2,
+        "description": ""
+      },
+      {
+        "itemId": 53077000,
+        "bid": 1400,
+        "price": 96767,
+        "days": 6,
+        "rights": 2,
+        "description": ""
+      },
+      {
+        "itemId": 53078000,
+        "bid": 6000,
+        "price": 96767,
+        "days": 6,
+        "rights": 2,
+        "description": ""
+      },
+      {
+        "itemId": 53079000,
+        "bid": 3750,
+        "price": 56767,
+        "days": 6,
+        "rights": 2,
+        "description": ""
+      },
+      {
+        "itemId": 53081000,
+        "bid": 3750,
+        "price": 96767,
+        "days": 6,
+        "rights": 2,
+        "description": ""
+      },
+      {
+        "itemId": 53080000,
+        "bid": 3750,
+        "price": 56767,
+        "days": 6,
+        "rights": 2,
+        "description": ""
+      },
+      {
+        "itemId": 52710000,
+        "bid": 250,
+        "price": 146767,
+        "days": 6,
+        "rights": 2,
+        "description": ""
+      },
+      {
+        "itemId": 52722000,
+        "bid": 250,
+        "price": 146767,
+        "days": 6,
+        "rights": 2,
+        "description": ""
+      },
+      {
+        "itemId": 51762000,
+        "bid": 250,
+        "price": 146767,
+        "days": 6,
+        "rights": 2,
+        "description": ""
+      },
+      {
+        "itemId": 51774000,
+        "bid": 250,
+        "price": 146767,
+        "days": 6,
+        "rights": 2,
+        "description": ""
+      },
+      {
+        "itemId": 52165000,
+        "bid": 250,
+        "price": 146767,
+        "days": 6,
+        "rights": 2,
+        "description": ""
+      },
+      {
+        "itemId": 51438000,
+        "bid": 250,
+        "price": 146767,
+        "days": 6,
+        "rights": 2,
+        "description": ""
+      },
+      {
+        "itemId": 52185000,
+        "bid": 250,
+        "price": 76767,
+        "days": 6,
+        "rights": 2,
+        "description": ""
+      },
+      {
+        "itemId": 52266000,
+        "bid": 250,
+        "price": 76767,
+        "days": 6,
+        "rights": 2,
+        "description": ""
+      },
+      {
+        "itemId": 52259000,
+        "bid": 250,
+        "price": 76767,
+        "days": 6,
+        "rights": 2,
+        "description": ""
+      },
+      {
+        "itemId": 52247000,
+        "bid": 250,
+        "price": 76767,
+        "days": 6,
+        "rights": 2,
+        "description": ""
+      },
+      {
+        "itemId": 51304000,
+        "bid": 2500,
+        "price": 76767,
+        "days": 6,
+        "rights": 2,
+        "description": ""
+      },
+      {
+        "itemId": 53015000,
+        "bid": 3750,
+        "price": 146767,
+        "days": 6,
+        "rights": 2,
+        "description": ""
+      },
+      {
+        "itemId": 53017000,
+        "bid": 3750,
+        "price": 46767,
+        "days": 6,
+        "rights": 2,
+        "description": ""
+      },
+      {
+        "itemId": 53025000,
+        "bid": 3750,
+        "price": 46767,
+        "days": 6,
+        "rights": 2,
+        "description": ""
+      },
+      {
+        "itemId": 53027000,
+        "bid": 3750,
+        "price": 146767,
+        "days": 6,
+        "rights": 2,
+        "description": ""
+      },
+      {
+        "itemId": 53026000,
+        "bid": 3750,
+        "price": 46767,
+        "days": 6,
+        "rights": 2,
+        "description": ""
+      },
+      {
+        "itemId": 50301000,
+        "bid": 1,
+        "price": 146767,
+        "days": 6,
+        "rights": 2,
+        "description": ""
+      },
+      {
+        "itemId": 51775000,
+        "bid": 1,
+        "price": 146767,
+        "days": 6,
+        "rights": 2,
+        "description": ""
+      },
+      {
+        "itemId": 54475000,
+        "bid": 250,
+        "price": 167676,
+        "days": 6,
+        "rights": 2,
+        "description": ""
+      },
+      {
+        "itemId": 54472000,
+        "bid": 250,
+        "price": 167676,
+        "days": 6,
+        "rights": 2,
+        "description": ""
+      },
+      {
+        "itemId": 54477000,
+        "bid": 250,
+        "price": 167676,
+        "days": 6,
+        "rights": 2,
+        "description": ""
+      },
+      {
+        "itemId": 54480000,
+        "bid": 250,
+        "price": 167676,
+        "days": 6,
+        "rights": 2,
+        "description": ""
+      },
+      {
+        "itemId": 2345000,
+        "bid": 5,
+        "price": 50,
+        "days": 6,
+        "rights": 2,
+        "description": ""
+      }
+    ],
+    "shopBuyItemId": 52136000,
+    "shopBuyPrice": 15,
+    "finishBuyItemId": 0,
+    "finishBuyPrice": 0,
+    "usePremium": true,
+    "premiumEnergyItemId": 21341000,
+    "wearBestForJob": true
+  }
+}
