@@ -2,10 +2,9 @@
   "kind": "SicMundus.massFarmer.config",
   "version": 1,
   "data": {
-    "townId": 4571,
+    "townId": 4511,
     "moneyReceiver": "Tobiash",
-    "targetItemId": 54890000,
-    "targetItemCount": 100,
+    "targetAchievement": 80448,
     "repeater": 100,
     "jobs": [
       {
